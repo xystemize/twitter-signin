@@ -1,6 +1,6 @@
 {
   "name": "@react-native-twitter-signin/twitter-signin",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0",
   "description": "Social Signin with Twitter",
   "keywords": [
     "react",
