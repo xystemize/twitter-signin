@@ -1,0 +1,7 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+/apps/mobile/ios/Pods
+/apps/mobile/android/app/build
+/lib
