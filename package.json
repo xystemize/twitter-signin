@@ -33,6 +33,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/react-native": "^0.65.5",
+    "@types/jest": "^28.1.2",
     "react-native": "^0.66.0",
     "react-native-builder-bob": "^0.18.2",
     "typescript": "^4.4.3",
@@ -42,9 +43,11 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "@react-native-community/eslint-config": "^3.0.2",
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "jest": "^28.1.1"
   },
   "scripts": {
+    "test": "npx jest",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "prepack": "bob build",
     "release": "release-it"
