@@ -1,5 +1,5 @@
 {
-  "name": "@xystemize/twitter-signin",
+  "name": "@xystemize/react-native-twitter-signin",
   "version": "1.4.5",
   "description": "Social Signin with Twitter",
   "keywords": [
@@ -16,10 +16,10 @@
   "module": "lib/module/index.js",
   "react-native": "src/index.ts",
   "types": "lib/typescript/index.d.ts",
-  "homepage": "https://github.com/xystemize/twitter-signin.git",
+  "homepage": "https://github.com/xystemize/react-native-twitter-signin.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xystemize/twitter-signin.git"
+    "url": "https://github.com/xystemize/react-native-twitter-signin.git"
   },
   "author": "Xystemize <xystemize@gmail.com> (https://github.com/xystemize)",
   "license": "MIT",
